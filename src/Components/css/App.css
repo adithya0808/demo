@@ -43,6 +43,8 @@ a{
 }
 a:hover{
     background-color: var(--four);
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
     color: var(--two);
 }
 img{

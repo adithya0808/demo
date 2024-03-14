@@ -7,7 +7,7 @@
 }
 /* base */
 *{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     box-sizing: border-box;
     text-decoration: none;
     margin: 0;
